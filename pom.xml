@@ -27,6 +27,7 @@
         <module>hmily-bom</module>
         <module>hmily-all</module>
         <module>hmily-xa</module>
+        <module>hmily-demo</module>
     </modules>
 
     <organization>
